@@ -1,5 +1,5 @@
 .Anime{
-    height: 900px;
+    height: 942px;
     width: 100%;
     background-color: blue;
     background-image: url(../img/footer.jpg);
@@ -9,7 +9,7 @@
     
 }
 .AnimeNanatsu{
-    width: 2080px;
+    width: 100%;
     height: 500px;
     display: flex;
     flex-direction: row;

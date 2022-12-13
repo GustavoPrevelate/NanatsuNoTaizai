@@ -11,7 +11,7 @@
 }
 div.the_seven{
     height: 518px;
-    width: 660px;
+    width: 640px;
     grid-area: theseven;
     margin-right: 200px;
     place-self: center end;
